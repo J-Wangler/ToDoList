@@ -119,7 +119,7 @@ ul {
 }
 
 .dark-mode .task.completed .task-text {
-    color: #555; /* Cor do texto para tarefas concluídas no modo escuro */
+    color: #ffffff; /* Cor do texto para tarefas concluídas no modo escuro */
 }
 
 .dark-mode button {
